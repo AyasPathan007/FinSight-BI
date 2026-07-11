@@ -1,0 +1,18 @@
+# Power BI temporary files
+*.pbix.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
